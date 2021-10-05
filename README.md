@@ -45,3 +45,7 @@ or use nodemon (if you have it installed)
 nodemon index
 ```
 
+
+## License
+
+MIT
