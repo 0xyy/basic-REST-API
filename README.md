@@ -30,3 +30,14 @@ the word is read from the body
 | endpoint | definition |
 | ------ | ------ |
 | /api/words/:id | deletes word with given id |
+
+<p>&nbsp;</p>
+
+Install the dependencies and devDependencies and start the server.
+
+```sh
+cd restapi
+npm i
+node index
+```
+
