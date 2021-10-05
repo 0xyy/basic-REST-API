@@ -1,2 +1,2 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
+# Basic REST API
+## _How to use, 
