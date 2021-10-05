@@ -21,8 +21,6 @@
 | ------ | ------ |
 | /api/words | creates and adds new word to collection |
 
-<p>&nbsp;</p>
-
 the word is read from the body
 
 <p>&nbsp;</p>
