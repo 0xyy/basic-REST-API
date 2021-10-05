@@ -1,2 +1,1 @@
-# basic rest api
- (in the future it will be expanded with a database)
+## _Basic REST API
