@@ -1,5 +1,9 @@
 # Basic REST API
 
+## How to use?
+
+## You can try it using Postman or Insomnia
+
 ## Using Method GET
 
 | endpoint | definition |
