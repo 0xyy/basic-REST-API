@@ -33,14 +33,14 @@ the word is read from the body
 
 <p>&nbsp;</p>
 
-##Install the dependencies and devDependencies and start the server.
+## Install the dependencies and devDependencies and start the server.
 
 ```sh
 cd restapi
 npm i
 node index
 ```
-or use nodemon (if u have it installed)
+or use nodemon (if you have it installed)
 ```
 nodemon index
 ```
