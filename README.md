@@ -14,12 +14,18 @@
 | /api/words/quantity/:word | gets quantity of a specific word in collection |
 | /api/words/unique | gets all unique words in collection |
 
+<p>&nbsp;</p>
+
 ## Using Method POST
 | endpoint | definition |
 | ------ | ------ |
 | /api/words | creates and adds new word to collection |
 
+<p>&nbsp;</p>
+
 the word is read from the body
+
+<p>&nbsp;</p>
 
 ## Using Method DELETE
 | endpoint | definition |
