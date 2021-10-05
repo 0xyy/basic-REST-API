@@ -1,6 +1,6 @@
 # Basic REST API using Express.js
 ## (in the future it will be expanded with a database)
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://github.com/0xyy/basic-REST-API)
 
 ## How to use?
 ### You can try it using Postman or Insomnia
