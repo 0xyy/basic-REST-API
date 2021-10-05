@@ -1,7 +1,9 @@
 # Basic REST API
 
 ## How to use?
-### You can try it using Postman or Insomnia\
+### You can try it using Postman or Insomnia
+
+<p>&nbsp;</p>
 
 ## Using Method GET
 
