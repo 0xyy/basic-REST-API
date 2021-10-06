@@ -16,7 +16,7 @@ const words = [{
         id: 3,
         word: 'window'
     },
-]
+];
 
 app.get('/', (req, res) => {
     res.send('Hello world');
@@ -43,7 +43,7 @@ app.get('/api/words/unique', (req, res) => {
     const uniqueWords = [...new Set(words.map(w => w.word))];
 
     res.send(uniqueWords);
-})
+});
 
 app.delete('/api/words/:id', (req, res) => {
     const word = words.find(w => w.id === Number(req.params.id));
